@@ -1,0 +1,15 @@
+id: tft-3.99-400x960-spi_rgb-st7701
+category: displays
+
+size: "3.99"
+panel: tft
+resolution: 400x960
+interface: [spi, rgb]
+shape: rect
+corner: sharp
+
+versions:
+  - id: YDP399B002-V4
+    driver: ST7701SN-G5-1
+    touch: none
+    note: 40-pin FPC; 3-line SPI or 18-bit RGB
