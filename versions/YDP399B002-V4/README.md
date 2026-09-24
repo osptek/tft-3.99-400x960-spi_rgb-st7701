@@ -13,6 +13,8 @@
   <img alt="Driver: ST7701" src="https://img.shields.io/badge/Driver-ST7701-E7352C?style=flat-square" />
 </p>
 
+<p align="center"><img alt="OSPTEK 3.99 寸 400×960 TFT SPI / RGB 模组（ST7701）宣传图" src="./images/product.png" width="640" /></p>
+
 ## 目录
 
 - [产品简介](#产品简介)

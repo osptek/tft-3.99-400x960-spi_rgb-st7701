@@ -37,11 +37,13 @@
 
 | 版本 | 宣传图 | 简介 | 完整资料 |
 | ---- | ------ | ---- | -------- |
-| YDP399B002-V4 | — | [简介](#ydp399b002-v4) | [完整资料](./versions/YDP399B002-V4/) |
+| YDP399B002-V4 | <img alt="YDP399B002-V4" src="./versions/YDP399B002-V4/images/product.png" width="120" /> | [简介](#ydp399b002-v4) | [完整资料](./versions/YDP399B002-V4/) |
 
 ---
 
 ## YDP399B002-V4
+
+<p align="center"><img alt="YDP399B002-V4" src="./versions/YDP399B002-V4/images/product.png" width="320" /></p>
 
 **说明：** FPC 为 40 Pin，无触摸。同一 FPC 支持 3-line SPI 或 18-bit RGB。
 

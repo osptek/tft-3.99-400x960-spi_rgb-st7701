@@ -37,11 +37,13 @@ Repo id: `tft-3.99-400x960-spi_rgb-st7701`
 
 | Version | Image | Summary | Full docs |
 | ------- | ----- | ------- | --------- |
-| YDP399B002-V4 | — | [Summary](#ydp399b002-v4) | [Full docs](./versions/YDP399B002-V4/) |
+| YDP399B002-V4 | <img alt="YDP399B002-V4" src="./versions/YDP399B002-V4/images/product.png" width="120" /> | [Summary](#ydp399b002-v4) | [Full docs](./versions/YDP399B002-V4/) |
 
 ---
 
 ## YDP399B002-V4
+
+<p align="center"><img alt="YDP399B002-V4" src="./versions/YDP399B002-V4/images/product.png" width="320" /></p>
 
 **Notes:** 40-pin FPC, no touch. The same FPC supports 3-line SPI or 18-bit RGB.
 
