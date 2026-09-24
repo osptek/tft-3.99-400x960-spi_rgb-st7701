@@ -18,6 +18,7 @@
 - [说明](#说明)
 - [版本一览](#版本一览)
 - [YDP399B002-V4](#ydp399b002-v4)
+- [YDP399B001-V6](#ydp399b001-v6)
 - [购买链接](#购买链接)
 - [技术支持](#技术支持)
 
@@ -37,6 +38,7 @@
 
 | 版本 | 宣传图 | 简介 | 完整资料 |
 | ---- | ------ | ---- | -------- |
+| YDP399B001-V6 | <img alt="YDP399B001-V6" src="./versions/YDP399B001-V6/images/product.png" width="120" /> | [简介](#ydp399b001-v6) | [完整资料](./versions/YDP399B001-V6/) |
 | YDP399B002-V4 | <img alt="YDP399B002-V4" src="./versions/YDP399B002-V4/images/product.png" width="120" /> | [简介](#ydp399b002-v4) | [完整资料](./versions/YDP399B002-V4/) |
 
 ---
@@ -48,6 +50,16 @@
 **说明：** FPC 为 40 Pin，无触摸。同一 FPC 支持 3-line SPI 或 18-bit RGB。
 
 完整产品页与规格书：[versions/YDP399B002-V4/](./versions/YDP399B002-V4/)
+
+---
+
+## YDP399B001-V6
+
+<p align="center"><img alt="YDP399B001-V6" src="./versions/YDP399B001-V6/images/product.png" width="320" /></p>
+
+**说明：** 3-line SPI + 18-bit RGB。FPC 预留 TP 脚，本版本为 NC。
+
+完整产品页、规格书与示例：[versions/YDP399B001-V6/](./versions/YDP399B001-V6/)
 
 ---
 

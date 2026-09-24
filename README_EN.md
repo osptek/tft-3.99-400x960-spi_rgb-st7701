@@ -18,6 +18,7 @@
 - [About](#about)
 - [Versions](#versions)
 - [YDP399B002-V4](#ydp399b002-v4)
+- [YDP399B001-V6](#ydp399b001-v6)
 - [Where to Buy](#where-to-buy)
 - [Support](#support)
 
@@ -37,6 +38,7 @@ Repo id: `tft-3.99-400x960-spi_rgb-st7701`
 
 | Version | Image | Summary | Full docs |
 | ------- | ----- | ------- | --------- |
+| YDP399B001-V6 | <img alt="YDP399B001-V6" src="./versions/YDP399B001-V6/images/product.png" width="120" /> | [Summary](#ydp399b001-v6) | [Full docs](./versions/YDP399B001-V6/) |
 | YDP399B002-V4 | <img alt="YDP399B002-V4" src="./versions/YDP399B002-V4/images/product.png" width="120" /> | [Summary](#ydp399b002-v4) | [Full docs](./versions/YDP399B002-V4/) |
 
 ---
@@ -48,6 +50,16 @@ Repo id: `tft-3.99-400x960-spi_rgb-st7701`
 **Notes:** 40-pin FPC, no touch. The same FPC supports 3-line SPI or 18-bit RGB.
 
 Full product page and datasheet: [versions/YDP399B002-V4/](./versions/YDP399B002-V4/)
+
+---
+
+## YDP399B001-V6
+
+<p align="center"><img alt="YDP399B001-V6" src="./versions/YDP399B001-V6/images/product.png" width="320" /></p>
+
+**Notes:** 3-line SPI + 18-bit RGB. TP pins on the FPC are NC on this version.
+
+Full product page, datasheets, and examples: [versions/YDP399B001-V6/](./versions/YDP399B001-V6/)
 
 ---
 

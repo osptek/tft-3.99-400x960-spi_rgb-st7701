@@ -13,3 +13,7 @@ versions:
     driver: ST7701SN-G5-1
     touch: none
     note: 40-pin FPC; 3-line SPI or 18-bit RGB
+  - id: YDP399B001-V6
+    driver: ST7701S
+    touch: none
+    note: 3-SPI + 18-bit RGB; TP pins NC
